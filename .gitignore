@@ -1,0 +1,4 @@
+# Exclude large model files (available on Google Drive)
+Saved data/adapter_model.safetensors
+Saved data/optimizer.pt
+
