@@ -1,4 +1,2 @@
-# Exclude large model files (available on Google Drive)
-Saved data/adapter_model.safetensors
-Saved data/optimizer.pt
+# Large model files are now tracked with Git LFS
 
